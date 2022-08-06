@@ -1,8 +1,6 @@
-- sup
-
 - I’m interested in anything interesting, new or innovative. I keep an eye out for nice python projects and lots more.
 
-- I’m currently learning anything that interests me, mainly C++ and Javascript. I'm an intermediate in python with more than an year of experience. 
+- I’m currently learning anything that interests me, mainly Rust and Python. I'm an intermediate in Python with more than 2 years of experience. 
 
 - __I’m looking to collaborate on anything open source! I'd love to help and contribute.__
 
