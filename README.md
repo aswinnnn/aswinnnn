@@ -23,3 +23,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/goldenboi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="goldenboi" /></a></p><br><br>
+
+![](https://github-readme-stats.vercel.app/api?username=aswinnnn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aswinnnn&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinnnn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aswinnnn&icon=0&color=0)](https://visitcount.itsvg.in)
+
