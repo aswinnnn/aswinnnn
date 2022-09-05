@@ -1,17 +1,17 @@
 <h1 align="center">Hey, I'm Aswin S.</h1>
 <h3 align="center">Just a computer enthusiast.</h3>
 
-- 🔭 I’m currently working on [weheartpy](https://github.com/aswinnnn/weheartpy)
+- 🔭 currently working on [weheartpy](https://github.com/aswinnnn/weheartpy)
 
-- 🌱 I’m currently learning **Rust, low-level logic and anything interesting.**
+- 🌱 learning **Rust, low-level logic and anything interesting.**
 
-- 👯 I’m looking to collaborate on on **any fun, interesting projects**
+- 👯 looking to collaborate on on **any fun, interesting projects**
 
-- 👨‍💻 All of my projects are available at [right here!](https://github.com/aswinnnn?tab=repositories)
+- 👨‍💻 All of my projects are available [right here!](https://github.com/aswinnnn?tab=repositories)
 
 - 📝 I rarely write articles on [https://aswinnnn.github.io/blog/](https://aswinnnn.github.io/blog/Reverse-Engineering-the-We-Heart-It-API/)
 
-- ⚡ Fun fact **There are no gorillas in space.**
+- ⚡ Fun fact: **There are no gorillas in space.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
