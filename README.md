@@ -7,7 +7,7 @@
 
 - 👯 looking to collaborate on on **any fun, interesting projects**
 
-- 👨‍💻 All of my projects are available [right here!](https://github.com/aswinnnn?tab=repositories)
+- 👨‍💻 All of my projects are available [right here.](https://github.com/aswinnnn?tab=repositories)
 
 - 📝 I rarely write articles on [https://aswinnnn.github.io/blog/](https://aswinnnn.github.io/blog/Reverse-Engineering-the-We-Heart-It-API/)
 
