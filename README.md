@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Aswin S.</h1>
+<h1 align="center">Hey, I'm Aswin.</h1>
 <h3 align="center">Just a computer enthusiast.</h3>
 
 - 🔭 currently working on [weheartpy](https://github.com/aswinnnn/weheartpy)
