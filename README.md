@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available [right here.](https://github.com/aswinnnn?tab=repositories)
 
-- 📝 I rarely write articles on [https://aswinnnn.github.io/blog/](https://aswinnnn.github.io/blog/Reverse-Engineering-the-We-Heart-It-API/)
-
 - ⚡ Fun fact: **There are no dolphins in space.**
 
 
