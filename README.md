@@ -6,7 +6,7 @@
 
 </h2>
 
-<h3 align="center"><a href="https://ko-fi.com/goldenboi"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="goldenboi" /></a></h3><br><br>
+<h3 align="center"><a href="https://ko-fi.com/goldenboi"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="goldenboi" /></a></h3>
 
 <br>
 
@@ -15,5 +15,3 @@
 ![](https://visitcount.itsvg.in/api?id=aswinnnn&icon=0&color=0)
   
 </h4>
-
-<br>
