@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm Aswin.</h1>
 
-<h5 align="center">
+<h4 align="center">
 <b>pronounced <i>ah-sh-win</i></b>
 </h5>
 
-<h2 align="center">
+<h4 align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aswinnnn&theme=dark&hide_border=true)
 
