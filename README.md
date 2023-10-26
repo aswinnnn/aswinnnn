@@ -4,11 +4,21 @@
 <b>pronounced <i>ah-sh-win</i></b>
 
 
-<h4 align="center">
+<h5 align="center">
+  
+<pre>currently working on</pre>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aswinnnn&theme=dark&hide_border=true)
+[pyscan](https://github.com/aswinnnn/pyscan)
 
-</h2>
+<pre>Languages:</pre>
+
+Rust, Python, C, C++, Haskell, OCaml, F#, Kotlin, Common Lisp
+
+<pre>Likes:</pre>
+
+cool stuff, theoretical computer science, physics simulations, statistical learning models, radio tech, etc.
+
+</h5>
 
 <h3 align="center"><a href="https://ko-fi.com/goldenboi"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="goldenboi" /></a></h3>
 
