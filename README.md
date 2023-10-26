@@ -4,7 +4,7 @@
 <b>pronounced <i>ah-sh-win</i></b>
 
 
-<h4 align="center">
+<h3 align="center">
   
 <pre>currently working on</pre>
 
@@ -18,7 +18,7 @@ Rust, Python, C, C++, Haskell, OCaml, F#, Kotlin, Common Lisp
 
 cool stuff, theoretical computer science, physics simulations, statistical learning models, radio tech, etc.
 
-</h4>
+</h3>
 
 <h3 align="center"><a href="https://ko-fi.com/goldenboi"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="goldenboi" /></a></h3>
 
